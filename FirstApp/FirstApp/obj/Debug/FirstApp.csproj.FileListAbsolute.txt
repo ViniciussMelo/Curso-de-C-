@@ -1,0 +1,6 @@
+C:\Users\vinicius.melo\Desktop\Arquivos\Cursos\Udemy\C# completo\ws-vs\FirstApp\FirstApp\bin\Debug\FirstApp.exe.config
+C:\Users\vinicius.melo\Desktop\Arquivos\Cursos\Udemy\C# completo\ws-vs\FirstApp\FirstApp\bin\Debug\FirstApp.exe
+C:\Users\vinicius.melo\Desktop\Arquivos\Cursos\Udemy\C# completo\ws-vs\FirstApp\FirstApp\bin\Debug\FirstApp.pdb
+C:\Users\vinicius.melo\Desktop\Arquivos\Cursos\Udemy\C# completo\ws-vs\FirstApp\FirstApp\obj\Debug\FirstApp.csprojResolveAssemblyReference.cache
+C:\Users\vinicius.melo\Desktop\Arquivos\Cursos\Udemy\C# completo\ws-vs\FirstApp\FirstApp\obj\Debug\FirstApp.exe
+C:\Users\vinicius.melo\Desktop\Arquivos\Cursos\Udemy\C# completo\ws-vs\FirstApp\FirstApp\obj\Debug\FirstApp.pdb

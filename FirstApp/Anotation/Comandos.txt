@@ -1,0 +1,3 @@
+Identação automática: CTRL + K + D
+Executar: CTRL + F5
+Autocomplete console: cw + tab + tab

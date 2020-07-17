@@ -1,0 +1,2 @@
+C:\Users\vinicius.melo\AppData\Local\Temporary Projects\TiposDeDados\bin\Debug\TiposDeDados.exe.config
+C:\Users\vinicius.melo\Desktop\Arquivos\Cursos\Udemy\C# completo\ws-vs\Course2\TiposDeDados\TiposDeDados\bin\Debug\TiposDeDados.exe.config
