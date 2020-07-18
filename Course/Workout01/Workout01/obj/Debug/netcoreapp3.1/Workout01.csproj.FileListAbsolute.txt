@@ -1,0 +1,13 @@
+D:\Cursos\Udemy\C# completo 2020 Programação orientada a objetos + projetos\Curso-de-back-end\Workout01\Workout01\bin\Debug\netcoreapp3.1\Workout01.exe
+D:\Cursos\Udemy\C# completo 2020 Programação orientada a objetos + projetos\Curso-de-back-end\Workout01\Workout01\bin\Debug\netcoreapp3.1\Workout01.deps.json
+D:\Cursos\Udemy\C# completo 2020 Programação orientada a objetos + projetos\Curso-de-back-end\Workout01\Workout01\bin\Debug\netcoreapp3.1\Workout01.runtimeconfig.json
+D:\Cursos\Udemy\C# completo 2020 Programação orientada a objetos + projetos\Curso-de-back-end\Workout01\Workout01\bin\Debug\netcoreapp3.1\Workout01.runtimeconfig.dev.json
+D:\Cursos\Udemy\C# completo 2020 Programação orientada a objetos + projetos\Curso-de-back-end\Workout01\Workout01\bin\Debug\netcoreapp3.1\Workout01.dll
+D:\Cursos\Udemy\C# completo 2020 Programação orientada a objetos + projetos\Curso-de-back-end\Workout01\Workout01\bin\Debug\netcoreapp3.1\Workout01.pdb
+D:\Cursos\Udemy\C# completo 2020 Programação orientada a objetos + projetos\Curso-de-back-end\Workout01\Workout01\obj\Debug\netcoreapp3.1\Workout01.csprojAssemblyReference.cache
+D:\Cursos\Udemy\C# completo 2020 Programação orientada a objetos + projetos\Curso-de-back-end\Workout01\Workout01\obj\Debug\netcoreapp3.1\Workout01.AssemblyInfoInputs.cache
+D:\Cursos\Udemy\C# completo 2020 Programação orientada a objetos + projetos\Curso-de-back-end\Workout01\Workout01\obj\Debug\netcoreapp3.1\Workout01.AssemblyInfo.cs
+D:\Cursos\Udemy\C# completo 2020 Programação orientada a objetos + projetos\Curso-de-back-end\Workout01\Workout01\obj\Debug\netcoreapp3.1\Workout01.csproj.CoreCompileInputs.cache
+D:\Cursos\Udemy\C# completo 2020 Programação orientada a objetos + projetos\Curso-de-back-end\Workout01\Workout01\obj\Debug\netcoreapp3.1\Workout01.dll
+D:\Cursos\Udemy\C# completo 2020 Programação orientada a objetos + projetos\Curso-de-back-end\Workout01\Workout01\obj\Debug\netcoreapp3.1\Workout01.pdb
+D:\Cursos\Udemy\C# completo 2020 Programação orientada a objetos + projetos\Curso-de-back-end\Workout01\Workout01\obj\Debug\netcoreapp3.1\Workout01.genruntimeconfig.cache

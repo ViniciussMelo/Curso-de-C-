@@ -1,0 +1,13 @@
+D:\Cursos\Udemy\C# completo 2020 Programação orientada a objetos + projetos\Curso-de-back-end\Course\OperadoresDeAtribuicao\OperadoresDeAtribuicao\bin\Debug\netcoreapp3.1\OperadoresDeAtribuicao.exe
+D:\Cursos\Udemy\C# completo 2020 Programação orientada a objetos + projetos\Curso-de-back-end\Course\OperadoresDeAtribuicao\OperadoresDeAtribuicao\bin\Debug\netcoreapp3.1\OperadoresDeAtribuicao.deps.json
+D:\Cursos\Udemy\C# completo 2020 Programação orientada a objetos + projetos\Curso-de-back-end\Course\OperadoresDeAtribuicao\OperadoresDeAtribuicao\bin\Debug\netcoreapp3.1\OperadoresDeAtribuicao.runtimeconfig.json
+D:\Cursos\Udemy\C# completo 2020 Programação orientada a objetos + projetos\Curso-de-back-end\Course\OperadoresDeAtribuicao\OperadoresDeAtribuicao\bin\Debug\netcoreapp3.1\OperadoresDeAtribuicao.runtimeconfig.dev.json
+D:\Cursos\Udemy\C# completo 2020 Programação orientada a objetos + projetos\Curso-de-back-end\Course\OperadoresDeAtribuicao\OperadoresDeAtribuicao\bin\Debug\netcoreapp3.1\OperadoresDeAtribuicao.dll
+D:\Cursos\Udemy\C# completo 2020 Programação orientada a objetos + projetos\Curso-de-back-end\Course\OperadoresDeAtribuicao\OperadoresDeAtribuicao\bin\Debug\netcoreapp3.1\OperadoresDeAtribuicao.pdb
+D:\Cursos\Udemy\C# completo 2020 Programação orientada a objetos + projetos\Curso-de-back-end\Course\OperadoresDeAtribuicao\OperadoresDeAtribuicao\obj\Debug\netcoreapp3.1\OperadoresDeAtribuicao.csprojAssemblyReference.cache
+D:\Cursos\Udemy\C# completo 2020 Programação orientada a objetos + projetos\Curso-de-back-end\Course\OperadoresDeAtribuicao\OperadoresDeAtribuicao\obj\Debug\netcoreapp3.1\OperadoresDeAtribuicao.AssemblyInfoInputs.cache
+D:\Cursos\Udemy\C# completo 2020 Programação orientada a objetos + projetos\Curso-de-back-end\Course\OperadoresDeAtribuicao\OperadoresDeAtribuicao\obj\Debug\netcoreapp3.1\OperadoresDeAtribuicao.AssemblyInfo.cs
+D:\Cursos\Udemy\C# completo 2020 Programação orientada a objetos + projetos\Curso-de-back-end\Course\OperadoresDeAtribuicao\OperadoresDeAtribuicao\obj\Debug\netcoreapp3.1\OperadoresDeAtribuicao.csproj.CoreCompileInputs.cache
+D:\Cursos\Udemy\C# completo 2020 Programação orientada a objetos + projetos\Curso-de-back-end\Course\OperadoresDeAtribuicao\OperadoresDeAtribuicao\obj\Debug\netcoreapp3.1\OperadoresDeAtribuicao.dll
+D:\Cursos\Udemy\C# completo 2020 Programação orientada a objetos + projetos\Curso-de-back-end\Course\OperadoresDeAtribuicao\OperadoresDeAtribuicao\obj\Debug\netcoreapp3.1\OperadoresDeAtribuicao.pdb
+D:\Cursos\Udemy\C# completo 2020 Programação orientada a objetos + projetos\Curso-de-back-end\Course\OperadoresDeAtribuicao\OperadoresDeAtribuicao\obj\Debug\netcoreapp3.1\OperadoresDeAtribuicao.genruntimeconfig.cache

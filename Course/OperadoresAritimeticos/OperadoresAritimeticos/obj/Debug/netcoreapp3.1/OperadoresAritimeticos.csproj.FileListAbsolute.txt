@@ -1,0 +1,12 @@
+D:\Cursos\Udemy\C# completo 2020 Programação orientada a objetos + projetos\Curso-de-back-end\Course\OperadoresAritimeticos\OperadoresAritimeticos\bin\Debug\netcoreapp3.1\OperadoresAritimeticos.exe
+D:\Cursos\Udemy\C# completo 2020 Programação orientada a objetos + projetos\Curso-de-back-end\Course\OperadoresAritimeticos\OperadoresAritimeticos\bin\Debug\netcoreapp3.1\OperadoresAritimeticos.deps.json
+D:\Cursos\Udemy\C# completo 2020 Programação orientada a objetos + projetos\Curso-de-back-end\Course\OperadoresAritimeticos\OperadoresAritimeticos\bin\Debug\netcoreapp3.1\OperadoresAritimeticos.runtimeconfig.json
+D:\Cursos\Udemy\C# completo 2020 Programação orientada a objetos + projetos\Curso-de-back-end\Course\OperadoresAritimeticos\OperadoresAritimeticos\bin\Debug\netcoreapp3.1\OperadoresAritimeticos.runtimeconfig.dev.json
+D:\Cursos\Udemy\C# completo 2020 Programação orientada a objetos + projetos\Curso-de-back-end\Course\OperadoresAritimeticos\OperadoresAritimeticos\bin\Debug\netcoreapp3.1\OperadoresAritimeticos.dll
+D:\Cursos\Udemy\C# completo 2020 Programação orientada a objetos + projetos\Curso-de-back-end\Course\OperadoresAritimeticos\OperadoresAritimeticos\bin\Debug\netcoreapp3.1\OperadoresAritimeticos.pdb
+D:\Cursos\Udemy\C# completo 2020 Programação orientada a objetos + projetos\Curso-de-back-end\Course\OperadoresAritimeticos\OperadoresAritimeticos\obj\Debug\netcoreapp3.1\OperadoresAritimeticos.AssemblyInfoInputs.cache
+D:\Cursos\Udemy\C# completo 2020 Programação orientada a objetos + projetos\Curso-de-back-end\Course\OperadoresAritimeticos\OperadoresAritimeticos\obj\Debug\netcoreapp3.1\OperadoresAritimeticos.AssemblyInfo.cs
+D:\Cursos\Udemy\C# completo 2020 Programação orientada a objetos + projetos\Curso-de-back-end\Course\OperadoresAritimeticos\OperadoresAritimeticos\obj\Debug\netcoreapp3.1\OperadoresAritimeticos.csproj.CoreCompileInputs.cache
+D:\Cursos\Udemy\C# completo 2020 Programação orientada a objetos + projetos\Curso-de-back-end\Course\OperadoresAritimeticos\OperadoresAritimeticos\obj\Debug\netcoreapp3.1\OperadoresAritimeticos.dll
+D:\Cursos\Udemy\C# completo 2020 Programação orientada a objetos + projetos\Curso-de-back-end\Course\OperadoresAritimeticos\OperadoresAritimeticos\obj\Debug\netcoreapp3.1\OperadoresAritimeticos.pdb
+D:\Cursos\Udemy\C# completo 2020 Programação orientada a objetos + projetos\Curso-de-back-end\Course\OperadoresAritimeticos\OperadoresAritimeticos\obj\Debug\netcoreapp3.1\OperadoresAritimeticos.genruntimeconfig.cache
