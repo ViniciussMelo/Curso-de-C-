@@ -1,0 +1,13 @@
+D:\Cursos\Udemy\C# completo 2020 Programação orientada a objetos + projetos\Curso-de-back-end\Course\EntradaDeDados\EntradaDeDados\bin\Debug\netcoreapp3.1\EntradaDeDados.exe
+D:\Cursos\Udemy\C# completo 2020 Programação orientada a objetos + projetos\Curso-de-back-end\Course\EntradaDeDados\EntradaDeDados\bin\Debug\netcoreapp3.1\EntradaDeDados.deps.json
+D:\Cursos\Udemy\C# completo 2020 Programação orientada a objetos + projetos\Curso-de-back-end\Course\EntradaDeDados\EntradaDeDados\bin\Debug\netcoreapp3.1\EntradaDeDados.runtimeconfig.json
+D:\Cursos\Udemy\C# completo 2020 Programação orientada a objetos + projetos\Curso-de-back-end\Course\EntradaDeDados\EntradaDeDados\bin\Debug\netcoreapp3.1\EntradaDeDados.runtimeconfig.dev.json
+D:\Cursos\Udemy\C# completo 2020 Programação orientada a objetos + projetos\Curso-de-back-end\Course\EntradaDeDados\EntradaDeDados\bin\Debug\netcoreapp3.1\EntradaDeDados.dll
+D:\Cursos\Udemy\C# completo 2020 Programação orientada a objetos + projetos\Curso-de-back-end\Course\EntradaDeDados\EntradaDeDados\bin\Debug\netcoreapp3.1\EntradaDeDados.pdb
+D:\Cursos\Udemy\C# completo 2020 Programação orientada a objetos + projetos\Curso-de-back-end\Course\EntradaDeDados\EntradaDeDados\obj\Debug\netcoreapp3.1\EntradaDeDados.csprojAssemblyReference.cache
+D:\Cursos\Udemy\C# completo 2020 Programação orientada a objetos + projetos\Curso-de-back-end\Course\EntradaDeDados\EntradaDeDados\obj\Debug\netcoreapp3.1\EntradaDeDados.AssemblyInfoInputs.cache
+D:\Cursos\Udemy\C# completo 2020 Programação orientada a objetos + projetos\Curso-de-back-end\Course\EntradaDeDados\EntradaDeDados\obj\Debug\netcoreapp3.1\EntradaDeDados.AssemblyInfo.cs
+D:\Cursos\Udemy\C# completo 2020 Programação orientada a objetos + projetos\Curso-de-back-end\Course\EntradaDeDados\EntradaDeDados\obj\Debug\netcoreapp3.1\EntradaDeDados.csproj.CoreCompileInputs.cache
+D:\Cursos\Udemy\C# completo 2020 Programação orientada a objetos + projetos\Curso-de-back-end\Course\EntradaDeDados\EntradaDeDados\obj\Debug\netcoreapp3.1\EntradaDeDados.dll
+D:\Cursos\Udemy\C# completo 2020 Programação orientada a objetos + projetos\Curso-de-back-end\Course\EntradaDeDados\EntradaDeDados\obj\Debug\netcoreapp3.1\EntradaDeDados.pdb
+D:\Cursos\Udemy\C# completo 2020 Programação orientada a objetos + projetos\Curso-de-back-end\Course\EntradaDeDados\EntradaDeDados\obj\Debug\netcoreapp3.1\EntradaDeDados.genruntimeconfig.cache

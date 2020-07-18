@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "EntradaDeDados1/1.0.0": {
+        "runtime": {
+          "EntradaDeDados1.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "EntradaDeDados1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

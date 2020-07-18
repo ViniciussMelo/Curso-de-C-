@@ -1,0 +1,12 @@
+D:\Cursos\Udemy\C# completo 2020 Programação orientada a objetos + projetos\Curso-de-back-end\Lógica de programação em C#\Funcoes\Funcoes\bin\Debug\netcoreapp3.1\Funcoes.exe
+D:\Cursos\Udemy\C# completo 2020 Programação orientada a objetos + projetos\Curso-de-back-end\Lógica de programação em C#\Funcoes\Funcoes\bin\Debug\netcoreapp3.1\Funcoes.deps.json
+D:\Cursos\Udemy\C# completo 2020 Programação orientada a objetos + projetos\Curso-de-back-end\Lógica de programação em C#\Funcoes\Funcoes\bin\Debug\netcoreapp3.1\Funcoes.runtimeconfig.json
+D:\Cursos\Udemy\C# completo 2020 Programação orientada a objetos + projetos\Curso-de-back-end\Lógica de programação em C#\Funcoes\Funcoes\bin\Debug\netcoreapp3.1\Funcoes.runtimeconfig.dev.json
+D:\Cursos\Udemy\C# completo 2020 Programação orientada a objetos + projetos\Curso-de-back-end\Lógica de programação em C#\Funcoes\Funcoes\bin\Debug\netcoreapp3.1\Funcoes.dll
+D:\Cursos\Udemy\C# completo 2020 Programação orientada a objetos + projetos\Curso-de-back-end\Lógica de programação em C#\Funcoes\Funcoes\bin\Debug\netcoreapp3.1\Funcoes.pdb
+D:\Cursos\Udemy\C# completo 2020 Programação orientada a objetos + projetos\Curso-de-back-end\Lógica de programação em C#\Funcoes\Funcoes\obj\Debug\netcoreapp3.1\Funcoes.AssemblyInfoInputs.cache
+D:\Cursos\Udemy\C# completo 2020 Programação orientada a objetos + projetos\Curso-de-back-end\Lógica de programação em C#\Funcoes\Funcoes\obj\Debug\netcoreapp3.1\Funcoes.AssemblyInfo.cs
+D:\Cursos\Udemy\C# completo 2020 Programação orientada a objetos + projetos\Curso-de-back-end\Lógica de programação em C#\Funcoes\Funcoes\obj\Debug\netcoreapp3.1\Funcoes.csproj.CoreCompileInputs.cache
+D:\Cursos\Udemy\C# completo 2020 Programação orientada a objetos + projetos\Curso-de-back-end\Lógica de programação em C#\Funcoes\Funcoes\obj\Debug\netcoreapp3.1\Funcoes.dll
+D:\Cursos\Udemy\C# completo 2020 Programação orientada a objetos + projetos\Curso-de-back-end\Lógica de programação em C#\Funcoes\Funcoes\obj\Debug\netcoreapp3.1\Funcoes.pdb
+D:\Cursos\Udemy\C# completo 2020 Programação orientada a objetos + projetos\Curso-de-back-end\Lógica de programação em C#\Funcoes\Funcoes\obj\Debug\netcoreapp3.1\Funcoes.genruntimeconfig.cache

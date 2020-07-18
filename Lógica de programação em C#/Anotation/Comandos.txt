@@ -1,0 +1,11 @@
+Identação automática: CTRL + K + D
+Executar: CTRL + F5
+Autocomplete console: cw + tab + tab
+
+Debug:
+Marcar linha = F9;
+iniciar debug = F5;
+próxima linha = F10;
+interromper = shift + F5;
+entrar na função = F11;
+sair da função = shift + F11;

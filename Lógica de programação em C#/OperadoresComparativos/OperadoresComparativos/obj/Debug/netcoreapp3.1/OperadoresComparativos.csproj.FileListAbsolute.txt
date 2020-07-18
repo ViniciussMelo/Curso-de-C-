@@ -1,0 +1,12 @@
+D:\Cursos\Udemy\C# completo 2020 Programação orientada a objetos + projetos\Curso-de-back-end\Course\OperadoresComparativos\OperadoresComparativos\bin\Debug\netcoreapp3.1\OperadoresComparativos.exe
+D:\Cursos\Udemy\C# completo 2020 Programação orientada a objetos + projetos\Curso-de-back-end\Course\OperadoresComparativos\OperadoresComparativos\bin\Debug\netcoreapp3.1\OperadoresComparativos.deps.json
+D:\Cursos\Udemy\C# completo 2020 Programação orientada a objetos + projetos\Curso-de-back-end\Course\OperadoresComparativos\OperadoresComparativos\bin\Debug\netcoreapp3.1\OperadoresComparativos.runtimeconfig.json
+D:\Cursos\Udemy\C# completo 2020 Programação orientada a objetos + projetos\Curso-de-back-end\Course\OperadoresComparativos\OperadoresComparativos\bin\Debug\netcoreapp3.1\OperadoresComparativos.runtimeconfig.dev.json
+D:\Cursos\Udemy\C# completo 2020 Programação orientada a objetos + projetos\Curso-de-back-end\Course\OperadoresComparativos\OperadoresComparativos\bin\Debug\netcoreapp3.1\OperadoresComparativos.dll
+D:\Cursos\Udemy\C# completo 2020 Programação orientada a objetos + projetos\Curso-de-back-end\Course\OperadoresComparativos\OperadoresComparativos\bin\Debug\netcoreapp3.1\OperadoresComparativos.pdb
+D:\Cursos\Udemy\C# completo 2020 Programação orientada a objetos + projetos\Curso-de-back-end\Course\OperadoresComparativos\OperadoresComparativos\obj\Debug\netcoreapp3.1\OperadoresComparativos.AssemblyInfoInputs.cache
+D:\Cursos\Udemy\C# completo 2020 Programação orientada a objetos + projetos\Curso-de-back-end\Course\OperadoresComparativos\OperadoresComparativos\obj\Debug\netcoreapp3.1\OperadoresComparativos.AssemblyInfo.cs
+D:\Cursos\Udemy\C# completo 2020 Programação orientada a objetos + projetos\Curso-de-back-end\Course\OperadoresComparativos\OperadoresComparativos\obj\Debug\netcoreapp3.1\OperadoresComparativos.csproj.CoreCompileInputs.cache
+D:\Cursos\Udemy\C# completo 2020 Programação orientada a objetos + projetos\Curso-de-back-end\Course\OperadoresComparativos\OperadoresComparativos\obj\Debug\netcoreapp3.1\OperadoresComparativos.dll
+D:\Cursos\Udemy\C# completo 2020 Programação orientada a objetos + projetos\Curso-de-back-end\Course\OperadoresComparativos\OperadoresComparativos\obj\Debug\netcoreapp3.1\OperadoresComparativos.pdb
+D:\Cursos\Udemy\C# completo 2020 Programação orientada a objetos + projetos\Curso-de-back-end\Course\OperadoresComparativos\OperadoresComparativos\obj\Debug\netcoreapp3.1\OperadoresComparativos.genruntimeconfig.cache

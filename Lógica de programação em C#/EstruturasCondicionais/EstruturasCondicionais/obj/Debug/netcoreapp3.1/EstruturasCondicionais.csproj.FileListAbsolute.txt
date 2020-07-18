@@ -1,0 +1,12 @@
+D:\Cursos\Udemy\C# completo 2020 Programação orientada a objetos + projetos\Curso-de-back-end\Course\EstruturasCondicionais\EstruturasCondicionais\bin\Debug\netcoreapp3.1\EstruturasCondicionais.exe
+D:\Cursos\Udemy\C# completo 2020 Programação orientada a objetos + projetos\Curso-de-back-end\Course\EstruturasCondicionais\EstruturasCondicionais\bin\Debug\netcoreapp3.1\EstruturasCondicionais.deps.json
+D:\Cursos\Udemy\C# completo 2020 Programação orientada a objetos + projetos\Curso-de-back-end\Course\EstruturasCondicionais\EstruturasCondicionais\bin\Debug\netcoreapp3.1\EstruturasCondicionais.runtimeconfig.json
+D:\Cursos\Udemy\C# completo 2020 Programação orientada a objetos + projetos\Curso-de-back-end\Course\EstruturasCondicionais\EstruturasCondicionais\bin\Debug\netcoreapp3.1\EstruturasCondicionais.runtimeconfig.dev.json
+D:\Cursos\Udemy\C# completo 2020 Programação orientada a objetos + projetos\Curso-de-back-end\Course\EstruturasCondicionais\EstruturasCondicionais\bin\Debug\netcoreapp3.1\EstruturasCondicionais.dll
+D:\Cursos\Udemy\C# completo 2020 Programação orientada a objetos + projetos\Curso-de-back-end\Course\EstruturasCondicionais\EstruturasCondicionais\bin\Debug\netcoreapp3.1\EstruturasCondicionais.pdb
+D:\Cursos\Udemy\C# completo 2020 Programação orientada a objetos + projetos\Curso-de-back-end\Course\EstruturasCondicionais\EstruturasCondicionais\obj\Debug\netcoreapp3.1\EstruturasCondicionais.AssemblyInfoInputs.cache
+D:\Cursos\Udemy\C# completo 2020 Programação orientada a objetos + projetos\Curso-de-back-end\Course\EstruturasCondicionais\EstruturasCondicionais\obj\Debug\netcoreapp3.1\EstruturasCondicionais.AssemblyInfo.cs
+D:\Cursos\Udemy\C# completo 2020 Programação orientada a objetos + projetos\Curso-de-back-end\Course\EstruturasCondicionais\EstruturasCondicionais\obj\Debug\netcoreapp3.1\EstruturasCondicionais.csproj.CoreCompileInputs.cache
+D:\Cursos\Udemy\C# completo 2020 Programação orientada a objetos + projetos\Curso-de-back-end\Course\EstruturasCondicionais\EstruturasCondicionais\obj\Debug\netcoreapp3.1\EstruturasCondicionais.dll
+D:\Cursos\Udemy\C# completo 2020 Programação orientada a objetos + projetos\Curso-de-back-end\Course\EstruturasCondicionais\EstruturasCondicionais\obj\Debug\netcoreapp3.1\EstruturasCondicionais.pdb
+D:\Cursos\Udemy\C# completo 2020 Programação orientada a objetos + projetos\Curso-de-back-end\Course\EstruturasCondicionais\EstruturasCondicionais\obj\Debug\netcoreapp3.1\EstruturasCondicionais.genruntimeconfig.cache

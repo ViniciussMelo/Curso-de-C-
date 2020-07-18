@@ -1,0 +1,12 @@
+D:\Cursos\Udemy\C# completo 2020 Programação orientada a objetos + projetos\Curso-de-back-end\Course\Workout02\Workout02\bin\Debug\netcoreapp3.1\Workout02.exe
+D:\Cursos\Udemy\C# completo 2020 Programação orientada a objetos + projetos\Curso-de-back-end\Course\Workout02\Workout02\bin\Debug\netcoreapp3.1\Workout02.deps.json
+D:\Cursos\Udemy\C# completo 2020 Programação orientada a objetos + projetos\Curso-de-back-end\Course\Workout02\Workout02\bin\Debug\netcoreapp3.1\Workout02.runtimeconfig.json
+D:\Cursos\Udemy\C# completo 2020 Programação orientada a objetos + projetos\Curso-de-back-end\Course\Workout02\Workout02\bin\Debug\netcoreapp3.1\Workout02.runtimeconfig.dev.json
+D:\Cursos\Udemy\C# completo 2020 Programação orientada a objetos + projetos\Curso-de-back-end\Course\Workout02\Workout02\bin\Debug\netcoreapp3.1\Workout02.dll
+D:\Cursos\Udemy\C# completo 2020 Programação orientada a objetos + projetos\Curso-de-back-end\Course\Workout02\Workout02\bin\Debug\netcoreapp3.1\Workout02.pdb
+D:\Cursos\Udemy\C# completo 2020 Programação orientada a objetos + projetos\Curso-de-back-end\Course\Workout02\Workout02\obj\Debug\netcoreapp3.1\Workout02.AssemblyInfoInputs.cache
+D:\Cursos\Udemy\C# completo 2020 Programação orientada a objetos + projetos\Curso-de-back-end\Course\Workout02\Workout02\obj\Debug\netcoreapp3.1\Workout02.AssemblyInfo.cs
+D:\Cursos\Udemy\C# completo 2020 Programação orientada a objetos + projetos\Curso-de-back-end\Course\Workout02\Workout02\obj\Debug\netcoreapp3.1\Workout02.csproj.CoreCompileInputs.cache
+D:\Cursos\Udemy\C# completo 2020 Programação orientada a objetos + projetos\Curso-de-back-end\Course\Workout02\Workout02\obj\Debug\netcoreapp3.1\Workout02.dll
+D:\Cursos\Udemy\C# completo 2020 Programação orientada a objetos + projetos\Curso-de-back-end\Course\Workout02\Workout02\obj\Debug\netcoreapp3.1\Workout02.pdb
+D:\Cursos\Udemy\C# completo 2020 Programação orientada a objetos + projetos\Curso-de-back-end\Course\Workout02\Workout02\obj\Debug\netcoreapp3.1\Workout02.genruntimeconfig.cache
