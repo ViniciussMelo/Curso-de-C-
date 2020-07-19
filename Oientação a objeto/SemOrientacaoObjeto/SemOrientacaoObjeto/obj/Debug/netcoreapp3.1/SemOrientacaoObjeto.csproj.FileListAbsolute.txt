@@ -1,0 +1,13 @@
+D:\Cursos\Udemy\C# completo 2020 Programação orientada a objetos + projetos\Curso-de-back-end\Oientação a objeto\SemOrientacaoObjeto\SemOrientacaoObjeto\bin\Debug\netcoreapp3.1\SemOrientacaoObjeto.exe
+D:\Cursos\Udemy\C# completo 2020 Programação orientada a objetos + projetos\Curso-de-back-end\Oientação a objeto\SemOrientacaoObjeto\SemOrientacaoObjeto\bin\Debug\netcoreapp3.1\SemOrientacaoObjeto.deps.json
+D:\Cursos\Udemy\C# completo 2020 Programação orientada a objetos + projetos\Curso-de-back-end\Oientação a objeto\SemOrientacaoObjeto\SemOrientacaoObjeto\bin\Debug\netcoreapp3.1\SemOrientacaoObjeto.runtimeconfig.json
+D:\Cursos\Udemy\C# completo 2020 Programação orientada a objetos + projetos\Curso-de-back-end\Oientação a objeto\SemOrientacaoObjeto\SemOrientacaoObjeto\bin\Debug\netcoreapp3.1\SemOrientacaoObjeto.runtimeconfig.dev.json
+D:\Cursos\Udemy\C# completo 2020 Programação orientada a objetos + projetos\Curso-de-back-end\Oientação a objeto\SemOrientacaoObjeto\SemOrientacaoObjeto\bin\Debug\netcoreapp3.1\SemOrientacaoObjeto.dll
+D:\Cursos\Udemy\C# completo 2020 Programação orientada a objetos + projetos\Curso-de-back-end\Oientação a objeto\SemOrientacaoObjeto\SemOrientacaoObjeto\bin\Debug\netcoreapp3.1\SemOrientacaoObjeto.pdb
+D:\Cursos\Udemy\C# completo 2020 Programação orientada a objetos + projetos\Curso-de-back-end\Oientação a objeto\SemOrientacaoObjeto\SemOrientacaoObjeto\obj\Debug\netcoreapp3.1\SemOrientacaoObjeto.csprojAssemblyReference.cache
+D:\Cursos\Udemy\C# completo 2020 Programação orientada a objetos + projetos\Curso-de-back-end\Oientação a objeto\SemOrientacaoObjeto\SemOrientacaoObjeto\obj\Debug\netcoreapp3.1\SemOrientacaoObjeto.AssemblyInfoInputs.cache
+D:\Cursos\Udemy\C# completo 2020 Programação orientada a objetos + projetos\Curso-de-back-end\Oientação a objeto\SemOrientacaoObjeto\SemOrientacaoObjeto\obj\Debug\netcoreapp3.1\SemOrientacaoObjeto.AssemblyInfo.cs
+D:\Cursos\Udemy\C# completo 2020 Programação orientada a objetos + projetos\Curso-de-back-end\Oientação a objeto\SemOrientacaoObjeto\SemOrientacaoObjeto\obj\Debug\netcoreapp3.1\SemOrientacaoObjeto.csproj.CoreCompileInputs.cache
+D:\Cursos\Udemy\C# completo 2020 Programação orientada a objetos + projetos\Curso-de-back-end\Oientação a objeto\SemOrientacaoObjeto\SemOrientacaoObjeto\obj\Debug\netcoreapp3.1\SemOrientacaoObjeto.dll
+D:\Cursos\Udemy\C# completo 2020 Programação orientada a objetos + projetos\Curso-de-back-end\Oientação a objeto\SemOrientacaoObjeto\SemOrientacaoObjeto\obj\Debug\netcoreapp3.1\SemOrientacaoObjeto.pdb
+D:\Cursos\Udemy\C# completo 2020 Programação orientada a objetos + projetos\Curso-de-back-end\Oientação a objeto\SemOrientacaoObjeto\SemOrientacaoObjeto\obj\Debug\netcoreapp3.1\SemOrientacaoObjeto.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+D:\Cursos\Udemy\C# completo 2020 Programação orientada a objetos + projetos\Curso-de-back-end\Oientação a objeto\ControleEstoque\ControleEstoque\bin\Debug\netcoreapp3.1\ControleEstoque.exe
+D:\Cursos\Udemy\C# completo 2020 Programação orientada a objetos + projetos\Curso-de-back-end\Oientação a objeto\ControleEstoque\ControleEstoque\bin\Debug\netcoreapp3.1\ControleEstoque.deps.json
+D:\Cursos\Udemy\C# completo 2020 Programação orientada a objetos + projetos\Curso-de-back-end\Oientação a objeto\ControleEstoque\ControleEstoque\bin\Debug\netcoreapp3.1\ControleEstoque.runtimeconfig.json
+D:\Cursos\Udemy\C# completo 2020 Programação orientada a objetos + projetos\Curso-de-back-end\Oientação a objeto\ControleEstoque\ControleEstoque\bin\Debug\netcoreapp3.1\ControleEstoque.runtimeconfig.dev.json
+D:\Cursos\Udemy\C# completo 2020 Programação orientada a objetos + projetos\Curso-de-back-end\Oientação a objeto\ControleEstoque\ControleEstoque\bin\Debug\netcoreapp3.1\ControleEstoque.dll
+D:\Cursos\Udemy\C# completo 2020 Programação orientada a objetos + projetos\Curso-de-back-end\Oientação a objeto\ControleEstoque\ControleEstoque\bin\Debug\netcoreapp3.1\ControleEstoque.pdb
+D:\Cursos\Udemy\C# completo 2020 Programação orientada a objetos + projetos\Curso-de-back-end\Oientação a objeto\ControleEstoque\ControleEstoque\obj\Debug\netcoreapp3.1\ControleEstoque.AssemblyInfoInputs.cache
+D:\Cursos\Udemy\C# completo 2020 Programação orientada a objetos + projetos\Curso-de-back-end\Oientação a objeto\ControleEstoque\ControleEstoque\obj\Debug\netcoreapp3.1\ControleEstoque.AssemblyInfo.cs
+D:\Cursos\Udemy\C# completo 2020 Programação orientada a objetos + projetos\Curso-de-back-end\Oientação a objeto\ControleEstoque\ControleEstoque\obj\Debug\netcoreapp3.1\ControleEstoque.csproj.CoreCompileInputs.cache
+D:\Cursos\Udemy\C# completo 2020 Programação orientada a objetos + projetos\Curso-de-back-end\Oientação a objeto\ControleEstoque\ControleEstoque\obj\Debug\netcoreapp3.1\ControleEstoque.dll
+D:\Cursos\Udemy\C# completo 2020 Programação orientada a objetos + projetos\Curso-de-back-end\Oientação a objeto\ControleEstoque\ControleEstoque\obj\Debug\netcoreapp3.1\ControleEstoque.pdb
+D:\Cursos\Udemy\C# completo 2020 Programação orientada a objetos + projetos\Curso-de-back-end\Oientação a objeto\ControleEstoque\ControleEstoque\obj\Debug\netcoreapp3.1\ControleEstoque.genruntimeconfig.cache
+D:\Cursos\Udemy\C# completo 2020 Programação orientada a objetos + projetos\Curso-de-back-end\Oientação a objeto\ControleEstoque\ControleEstoque\obj\Debug\netcoreapp3.1\ControleEstoque.csprojAssemblyReference.cache

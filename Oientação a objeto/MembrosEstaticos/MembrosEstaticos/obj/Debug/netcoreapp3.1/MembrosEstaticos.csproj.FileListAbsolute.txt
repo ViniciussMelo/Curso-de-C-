@@ -1,0 +1,12 @@
+D:\Cursos\Udemy\C# completo 2020 Programação orientada a objetos + projetos\Curso-de-back-end\Oientação a objeto\MembrosEstaticos\MembrosEstaticos\bin\Debug\netcoreapp3.1\MembrosEstaticos.exe
+D:\Cursos\Udemy\C# completo 2020 Programação orientada a objetos + projetos\Curso-de-back-end\Oientação a objeto\MembrosEstaticos\MembrosEstaticos\bin\Debug\netcoreapp3.1\MembrosEstaticos.deps.json
+D:\Cursos\Udemy\C# completo 2020 Programação orientada a objetos + projetos\Curso-de-back-end\Oientação a objeto\MembrosEstaticos\MembrosEstaticos\bin\Debug\netcoreapp3.1\MembrosEstaticos.runtimeconfig.json
+D:\Cursos\Udemy\C# completo 2020 Programação orientada a objetos + projetos\Curso-de-back-end\Oientação a objeto\MembrosEstaticos\MembrosEstaticos\bin\Debug\netcoreapp3.1\MembrosEstaticos.runtimeconfig.dev.json
+D:\Cursos\Udemy\C# completo 2020 Programação orientada a objetos + projetos\Curso-de-back-end\Oientação a objeto\MembrosEstaticos\MembrosEstaticos\bin\Debug\netcoreapp3.1\MembrosEstaticos.dll
+D:\Cursos\Udemy\C# completo 2020 Programação orientada a objetos + projetos\Curso-de-back-end\Oientação a objeto\MembrosEstaticos\MembrosEstaticos\bin\Debug\netcoreapp3.1\MembrosEstaticos.pdb
+D:\Cursos\Udemy\C# completo 2020 Programação orientada a objetos + projetos\Curso-de-back-end\Oientação a objeto\MembrosEstaticos\MembrosEstaticos\obj\Debug\netcoreapp3.1\MembrosEstaticos.AssemblyInfoInputs.cache
+D:\Cursos\Udemy\C# completo 2020 Programação orientada a objetos + projetos\Curso-de-back-end\Oientação a objeto\MembrosEstaticos\MembrosEstaticos\obj\Debug\netcoreapp3.1\MembrosEstaticos.AssemblyInfo.cs
+D:\Cursos\Udemy\C# completo 2020 Programação orientada a objetos + projetos\Curso-de-back-end\Oientação a objeto\MembrosEstaticos\MembrosEstaticos\obj\Debug\netcoreapp3.1\MembrosEstaticos.csproj.CoreCompileInputs.cache
+D:\Cursos\Udemy\C# completo 2020 Programação orientada a objetos + projetos\Curso-de-back-end\Oientação a objeto\MembrosEstaticos\MembrosEstaticos\obj\Debug\netcoreapp3.1\MembrosEstaticos.dll
+D:\Cursos\Udemy\C# completo 2020 Programação orientada a objetos + projetos\Curso-de-back-end\Oientação a objeto\MembrosEstaticos\MembrosEstaticos\obj\Debug\netcoreapp3.1\MembrosEstaticos.pdb
+D:\Cursos\Udemy\C# completo 2020 Programação orientada a objetos + projetos\Curso-de-back-end\Oientação a objeto\MembrosEstaticos\MembrosEstaticos\obj\Debug\netcoreapp3.1\MembrosEstaticos.genruntimeconfig.cache
