@@ -1,0 +1,6 @@
+C:\Users\vinicius.melo\AppData\Local\Temporary Projects\Nullable\bin\Debug\Nullable.exe.config
+C:\Users\vinicius.melo\Desktop\Arquivos\Cursos\Udemy\C# completo\Curso-de-back-end\Comportamento de memória, arrays, listas\Nullable\Nullable\bin\Debug\Nullable.exe.config
+C:\Users\vinicius.melo\Desktop\Arquivos\Cursos\Udemy\C# completo\Curso-de-back-end\Comportamento de memória, arrays, listas\Nullable\Nullable\bin\Debug\Nullable.exe
+C:\Users\vinicius.melo\Desktop\Arquivos\Cursos\Udemy\C# completo\Curso-de-back-end\Comportamento de memória, arrays, listas\Nullable\Nullable\bin\Debug\Nullable.pdb
+C:\Users\vinicius.melo\Desktop\Arquivos\Cursos\Udemy\C# completo\Curso-de-back-end\Comportamento de memória, arrays, listas\Nullable\Nullable\obj\Debug\Nullable.exe
+C:\Users\vinicius.melo\Desktop\Arquivos\Cursos\Udemy\C# completo\Curso-de-back-end\Comportamento de memória, arrays, listas\Nullable\Nullable\obj\Debug\Nullable.pdb

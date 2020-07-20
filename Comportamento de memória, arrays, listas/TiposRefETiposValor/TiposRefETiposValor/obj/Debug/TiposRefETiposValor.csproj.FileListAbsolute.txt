@@ -1,0 +1,7 @@
+C:\Users\vinicius.melo\AppData\Local\Temporary Projects\TiposRefETiposValor\bin\Debug\TiposRefETiposValor.exe.config
+C:\Users\vinicius.melo\Desktop\Arquivos\Cursos\Udemy\C# completo\Curso-de-back-end\Comportamento de memória, arrays, listas\TiposRefETiposValor\TiposRefETiposValor\bin\Debug\TiposRefETiposValor.exe.config
+C:\Users\vinicius.melo\Desktop\Arquivos\Cursos\Udemy\C# completo\Curso-de-back-end\Comportamento de memória, arrays, listas\TiposRefETiposValor\TiposRefETiposValor\bin\Debug\TiposRefETiposValor.exe
+C:\Users\vinicius.melo\Desktop\Arquivos\Cursos\Udemy\C# completo\Curso-de-back-end\Comportamento de memória, arrays, listas\TiposRefETiposValor\TiposRefETiposValor\bin\Debug\TiposRefETiposValor.pdb
+C:\Users\vinicius.melo\Desktop\Arquivos\Cursos\Udemy\C# completo\Curso-de-back-end\Comportamento de memória, arrays, listas\TiposRefETiposValor\TiposRefETiposValor\obj\Debug\TiposRefETiposValor.csprojResolveAssemblyReference.cache
+C:\Users\vinicius.melo\Desktop\Arquivos\Cursos\Udemy\C# completo\Curso-de-back-end\Comportamento de memória, arrays, listas\TiposRefETiposValor\TiposRefETiposValor\obj\Debug\TiposRefETiposValor.exe
+C:\Users\vinicius.melo\Desktop\Arquivos\Cursos\Udemy\C# completo\Curso-de-back-end\Comportamento de memória, arrays, listas\TiposRefETiposValor\TiposRefETiposValor\obj\Debug\TiposRefETiposValor.pdb

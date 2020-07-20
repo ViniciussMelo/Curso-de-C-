@@ -1,0 +1,6 @@
+C:\Users\vinicius.melo\AppData\Local\Temporary Projects\Vetores2\bin\Debug\Vetores2.exe.config
+C:\Users\vinicius.melo\Desktop\Arquivos\Cursos\Udemy\C# completo\Curso-de-back-end\Comportamento de memória, arrays, listas\Vetores2\Vetores2\bin\Debug\Vetores2.exe.config
+C:\Users\vinicius.melo\Desktop\Arquivos\Cursos\Udemy\C# completo\Curso-de-back-end\Comportamento de memória, arrays, listas\Vetores2\Vetores2\bin\Debug\Vetores2.exe
+C:\Users\vinicius.melo\Desktop\Arquivos\Cursos\Udemy\C# completo\Curso-de-back-end\Comportamento de memória, arrays, listas\Vetores2\Vetores2\bin\Debug\Vetores2.pdb
+C:\Users\vinicius.melo\Desktop\Arquivos\Cursos\Udemy\C# completo\Curso-de-back-end\Comportamento de memória, arrays, listas\Vetores2\Vetores2\obj\Debug\Vetores2.exe
+C:\Users\vinicius.melo\Desktop\Arquivos\Cursos\Udemy\C# completo\Curso-de-back-end\Comportamento de memória, arrays, listas\Vetores2\Vetores2\obj\Debug\Vetores2.pdb

@@ -1,0 +1,6 @@
+C:\Users\vinicius.melo\AppData\Local\Temporary Projects\ForEach\bin\Debug\ForEach.exe.config
+C:\Users\vinicius.melo\Desktop\Arquivos\Cursos\Udemy\C# completo\Curso-de-back-end\Comportamento de memória, arrays, listas\ForEach\ForEach\bin\Debug\ForEach.exe.config
+C:\Users\vinicius.melo\Desktop\Arquivos\Cursos\Udemy\C# completo\Curso-de-back-end\Comportamento de memória, arrays, listas\ForEach\ForEach\bin\Debug\ForEach.exe
+C:\Users\vinicius.melo\Desktop\Arquivos\Cursos\Udemy\C# completo\Curso-de-back-end\Comportamento de memória, arrays, listas\ForEach\ForEach\bin\Debug\ForEach.pdb
+C:\Users\vinicius.melo\Desktop\Arquivos\Cursos\Udemy\C# completo\Curso-de-back-end\Comportamento de memória, arrays, listas\ForEach\ForEach\obj\Debug\ForEach.exe
+C:\Users\vinicius.melo\Desktop\Arquivos\Cursos\Udemy\C# completo\Curso-de-back-end\Comportamento de memória, arrays, listas\ForEach\ForEach\obj\Debug\ForEach.pdb

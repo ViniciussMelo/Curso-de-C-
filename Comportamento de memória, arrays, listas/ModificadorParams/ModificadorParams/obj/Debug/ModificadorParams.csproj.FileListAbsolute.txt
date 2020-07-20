@@ -1,0 +1,5 @@
+C:\Users\vinicius.melo\AppData\Local\Temporary Projects\ModificadorParams\bin\Debug\ModificadorParams.exe.config
+C:\Users\vinicius.melo\AppData\Local\Temporary Projects\ModificadorParams\bin\Debug\ModificadorParams.exe
+C:\Users\vinicius.melo\AppData\Local\Temporary Projects\ModificadorParams\bin\Debug\ModificadorParams.pdb
+C:\Users\vinicius.melo\AppData\Local\Temporary Projects\ModificadorParams\obj\Debug\ModificadorParams.exe
+C:\Users\vinicius.melo\AppData\Local\Temporary Projects\ModificadorParams\obj\Debug\ModificadorParams.pdb

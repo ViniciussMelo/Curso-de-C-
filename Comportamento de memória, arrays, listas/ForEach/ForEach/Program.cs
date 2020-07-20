@@ -1,0 +1,21 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace ForEach
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            string[] vect = new String[] { "Vinicius", "Wesley", "Rodrigo" };
+
+            foreach (string obj in vect)
+            {
+                Console.WriteLine(obj);
+            }
+        }
+    }
+}

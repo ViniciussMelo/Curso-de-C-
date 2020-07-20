@@ -1,0 +1,6 @@
+C:\Users\vinicius.melo\AppData\Local\Temporary Projects\ModificadorParamsRefEOut\bin\Debug\ModificadorParamsRefEOut.exe.config
+C:\Users\vinicius.melo\Desktop\Arquivos\Cursos\Udemy\C# completo\Curso-de-back-end\Comportamento de memória, arrays, listas\ModificadorParamsRefEOut\ModificadorParamsRefEOut\bin\Debug\ModificadorParamsRefEOut.exe.config
+C:\Users\vinicius.melo\Desktop\Arquivos\Cursos\Udemy\C# completo\Curso-de-back-end\Comportamento de memória, arrays, listas\ModificadorParamsRefEOut\ModificadorParamsRefEOut\bin\Debug\ModificadorParamsRefEOut.exe
+C:\Users\vinicius.melo\Desktop\Arquivos\Cursos\Udemy\C# completo\Curso-de-back-end\Comportamento de memória, arrays, listas\ModificadorParamsRefEOut\ModificadorParamsRefEOut\bin\Debug\ModificadorParamsRefEOut.pdb
+C:\Users\vinicius.melo\Desktop\Arquivos\Cursos\Udemy\C# completo\Curso-de-back-end\Comportamento de memória, arrays, listas\ModificadorParamsRefEOut\ModificadorParamsRefEOut\obj\Debug\ModificadorParamsRefEOut.exe
+C:\Users\vinicius.melo\Desktop\Arquivos\Cursos\Udemy\C# completo\Curso-de-back-end\Comportamento de memória, arrays, listas\ModificadorParamsRefEOut\ModificadorParamsRefEOut\obj\Debug\ModificadorParamsRefEOut.pdb
