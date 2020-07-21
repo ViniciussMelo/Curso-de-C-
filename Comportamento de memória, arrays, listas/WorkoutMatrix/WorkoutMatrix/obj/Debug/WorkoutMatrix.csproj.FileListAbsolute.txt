@@ -1,1 +1,8 @@
 C:\Users\vinicius.melo\AppData\Local\Temporary Projects\WorkoutMatrix\bin\Debug\WorkoutMatrix.exe.config
+D:\Cursos\Udemy\C# completo 2020 Programação orientada a objetos + projetos\Curso-de-back-end\Comportamento de memória, arrays, listas\WorkoutMatrix\WorkoutMatrix\bin\Debug\WorkoutMatrix.exe.config
+D:\Cursos\Udemy\C# completo 2020 Programação orientada a objetos + projetos\Curso-de-back-end\Comportamento de memória, arrays, listas\WorkoutMatrix\WorkoutMatrix\bin\Debug\WorkoutMatrix.exe
+D:\Cursos\Udemy\C# completo 2020 Programação orientada a objetos + projetos\Curso-de-back-end\Comportamento de memória, arrays, listas\WorkoutMatrix\WorkoutMatrix\bin\Debug\WorkoutMatrix.pdb
+D:\Cursos\Udemy\C# completo 2020 Programação orientada a objetos + projetos\Curso-de-back-end\Comportamento de memória, arrays, listas\WorkoutMatrix\WorkoutMatrix\obj\Debug\WorkoutMatrix.csprojAssemblyReference.cache
+D:\Cursos\Udemy\C# completo 2020 Programação orientada a objetos + projetos\Curso-de-back-end\Comportamento de memória, arrays, listas\WorkoutMatrix\WorkoutMatrix\obj\Debug\WorkoutMatrix.csproj.CoreCompileInputs.cache
+D:\Cursos\Udemy\C# completo 2020 Programação orientada a objetos + projetos\Curso-de-back-end\Comportamento de memória, arrays, listas\WorkoutMatrix\WorkoutMatrix\obj\Debug\WorkoutMatrix.exe
+D:\Cursos\Udemy\C# completo 2020 Programação orientada a objetos + projetos\Curso-de-back-end\Comportamento de memória, arrays, listas\WorkoutMatrix\WorkoutMatrix\obj\Debug\WorkoutMatrix.pdb
