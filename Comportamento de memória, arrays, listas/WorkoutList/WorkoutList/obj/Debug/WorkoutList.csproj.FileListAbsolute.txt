@@ -1,0 +1,7 @@
+C:\Users\vinicius.melo\AppData\Local\Temporary Projects\WorkoutList\bin\Debug\WorkoutList.exe.config
+C:\Users\vinicius.melo\Desktop\Arquivos\Cursos\Udemy\C# completo\Curso-de-back-end\Comportamento de memória, arrays, listas\WorkoutList\WorkoutList\bin\Debug\WorkoutList.exe.config
+C:\Users\vinicius.melo\Desktop\Arquivos\Cursos\Udemy\C# completo\Curso-de-back-end\Comportamento de memória, arrays, listas\WorkoutList\WorkoutList\bin\Debug\WorkoutList.exe
+C:\Users\vinicius.melo\Desktop\Arquivos\Cursos\Udemy\C# completo\Curso-de-back-end\Comportamento de memória, arrays, listas\WorkoutList\WorkoutList\bin\Debug\WorkoutList.pdb
+C:\Users\vinicius.melo\Desktop\Arquivos\Cursos\Udemy\C# completo\Curso-de-back-end\Comportamento de memória, arrays, listas\WorkoutList\WorkoutList\obj\Debug\WorkoutList.csprojResolveAssemblyReference.cache
+C:\Users\vinicius.melo\Desktop\Arquivos\Cursos\Udemy\C# completo\Curso-de-back-end\Comportamento de memória, arrays, listas\WorkoutList\WorkoutList\obj\Debug\WorkoutList.exe
+C:\Users\vinicius.melo\Desktop\Arquivos\Cursos\Udemy\C# completo\Curso-de-back-end\Comportamento de memória, arrays, listas\WorkoutList\WorkoutList\obj\Debug\WorkoutList.pdb

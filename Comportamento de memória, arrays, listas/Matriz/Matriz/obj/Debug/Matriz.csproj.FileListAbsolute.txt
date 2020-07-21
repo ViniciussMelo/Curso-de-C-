@@ -1,0 +1,5 @@
+C:\Users\vinicius.melo\AppData\Local\Temporary Projects\Matriz\bin\Debug\Matriz.exe.config
+C:\Users\vinicius.melo\AppData\Local\Temporary Projects\Matriz\bin\Debug\Matriz.exe
+C:\Users\vinicius.melo\AppData\Local\Temporary Projects\Matriz\bin\Debug\Matriz.pdb
+C:\Users\vinicius.melo\AppData\Local\Temporary Projects\Matriz\obj\Debug\Matriz.exe
+C:\Users\vinicius.melo\AppData\Local\Temporary Projects\Matriz\obj\Debug\Matriz.pdb

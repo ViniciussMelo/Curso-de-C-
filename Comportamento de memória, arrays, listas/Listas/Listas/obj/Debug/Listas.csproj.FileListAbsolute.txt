@@ -1,0 +1,6 @@
+C:\Users\vinicius.melo\Desktop\Arquivos\Cursos\Udemy\C# completo\Curso-de-back-end\Comportamento de memória, arrays, listas\Listas\Listas\bin\Debug\Listas.exe.config
+C:\Users\vinicius.melo\Desktop\Arquivos\Cursos\Udemy\C# completo\Curso-de-back-end\Comportamento de memória, arrays, listas\Listas\Listas\bin\Debug\Listas.exe
+C:\Users\vinicius.melo\Desktop\Arquivos\Cursos\Udemy\C# completo\Curso-de-back-end\Comportamento de memória, arrays, listas\Listas\Listas\bin\Debug\Listas.pdb
+C:\Users\vinicius.melo\Desktop\Arquivos\Cursos\Udemy\C# completo\Curso-de-back-end\Comportamento de memória, arrays, listas\Listas\Listas\obj\Debug\Listas.csprojResolveAssemblyReference.cache
+C:\Users\vinicius.melo\Desktop\Arquivos\Cursos\Udemy\C# completo\Curso-de-back-end\Comportamento de memória, arrays, listas\Listas\Listas\obj\Debug\Listas.exe
+C:\Users\vinicius.melo\Desktop\Arquivos\Cursos\Udemy\C# completo\Curso-de-back-end\Comportamento de memória, arrays, listas\Listas\Listas\obj\Debug\Listas.pdb
