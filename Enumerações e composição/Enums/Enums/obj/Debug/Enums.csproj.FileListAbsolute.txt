@@ -1,0 +1,7 @@
+C:\Users\vinicius.melo\AppData\Local\Temporary Projects\Enums\bin\Debug\Enums.exe.config
+C:\Users\vinicius.melo\Desktop\Arquivos\Cursos\Udemy\C# completo\Curso-de-back-end\Enumerações e composição\Enums\Enums\bin\Debug\Enums.exe.config
+C:\Users\vinicius.melo\Desktop\Arquivos\Cursos\Udemy\C# completo\Curso-de-back-end\Enumerações e composição\Enums\Enums\bin\Debug\Enums.exe
+C:\Users\vinicius.melo\Desktop\Arquivos\Cursos\Udemy\C# completo\Curso-de-back-end\Enumerações e composição\Enums\Enums\bin\Debug\Enums.pdb
+C:\Users\vinicius.melo\Desktop\Arquivos\Cursos\Udemy\C# completo\Curso-de-back-end\Enumerações e composição\Enums\Enums\obj\Debug\Enums.csprojResolveAssemblyReference.cache
+C:\Users\vinicius.melo\Desktop\Arquivos\Cursos\Udemy\C# completo\Curso-de-back-end\Enumerações e composição\Enums\Enums\obj\Debug\Enums.exe
+C:\Users\vinicius.melo\Desktop\Arquivos\Cursos\Udemy\C# completo\Curso-de-back-end\Enumerações e composição\Enums\Enums\obj\Debug\Enums.pdb
