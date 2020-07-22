@@ -7,8 +7,8 @@ namespace Workout01.Entities
     class Worker
     {
         public string Name { get; set; }
-        public WorkerLevel level { get; set; }
-        public decimal baseSalary { get; set; }
+        public WorkerLevel Level { get; set; }
+        public double BaseSalary { get; set; }
         public Department Department { get; set; }
         public List<HourContract> Contracts { get; set; }
 
@@ -17,23 +17,35 @@ namespace Workout01.Entities
 
         }
 
-        public void addContract(HourContract contract)
+        public Worker(string name, WorkerLevel level, double baseSalary, Department department)
+        {
+            Name = name;
+            Level = level;
+            BaseSalary = baseSalary;
+            Department = department;
+            Contracts = new List<HourContract>();
+        }
+
+        public void AddContract(HourContract contract)
         {
             Contracts.Add(contract);
         }
 
-        public void removeContract(HourContract contract)
+        public void RemoveContract(HourContract contract)
         {
             HourContract contractRemove = Contracts.Find(cont => cont == contract);
             Contracts.Remove(contractRemove);
         }
 
-        public double income(int year, int month)
+        public double Income(int year, int month)
         {
-            double income = 0.00;
+            double income = BaseSalary;
 
             foreach(HourContract obj in Contracts){
-                income += obj.totalValue();
+                if (obj.Date.Year == year && obj.Date.Month == month)
+                {
+                    income += obj.TotalValue();
+                }
             }
 
             return income;

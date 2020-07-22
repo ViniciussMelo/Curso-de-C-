@@ -10,3 +10,4 @@ D:\Cursos\Udemy\C# completo 2020 Programação orientada a objetos + projetos\Cu
 D:\Cursos\Udemy\C# completo 2020 Programação orientada a objetos + projetos\Curso-de-back-end\Tópicos especiais C#\DateTimeKindFormat\DateTimeKindFormat\obj\Debug\netcoreapp3.1\DateTimeKindFormat.dll
 D:\Cursos\Udemy\C# completo 2020 Programação orientada a objetos + projetos\Curso-de-back-end\Tópicos especiais C#\DateTimeKindFormat\DateTimeKindFormat\obj\Debug\netcoreapp3.1\DateTimeKindFormat.pdb
 D:\Cursos\Udemy\C# completo 2020 Programação orientada a objetos + projetos\Curso-de-back-end\Tópicos especiais C#\DateTimeKindFormat\DateTimeKindFormat\obj\Debug\netcoreapp3.1\DateTimeKindFormat.genruntimeconfig.cache
+D:\Cursos\Udemy\C# completo 2020 Programação orientada a objetos + projetos\Curso-de-back-end\Tópicos especiais C#\DateTimeKindFormat\DateTimeKindFormat\obj\Debug\netcoreapp3.1\DateTimeKindFormat.csprojAssemblyReference.cache

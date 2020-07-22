@@ -8,13 +8,20 @@ namespace Workout01.Entities
 {
     class HourContract
     {
-        public DateTime date { get; set; }
-        public double valuePerhour { get; set; }
-        public int hours { get; set; }
+        public DateTime Date { get; set; }
+        public double ValuePerHour { get; set; }
+        public int Hours { get; set; }
 
-        public double totalValue()
+        public HourContract(DateTime date, double valuePerHour, int hours)
         {
-            return valuePerhour * hours;
+            Date = date;
+            ValuePerHour = valuePerHour;
+            Hours = hours;
+        }
+
+        public double TotalValue()
+        {
+            return ValuePerHour * Hours;
         }
     }
 }

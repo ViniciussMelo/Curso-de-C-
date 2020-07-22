@@ -4,3 +4,10 @@ C:\Users\vinicius.melo\AppData\Local\Temporary Projects\Workout01\bin\Debug\Work
 C:\Users\vinicius.melo\AppData\Local\Temporary Projects\Workout01\obj\Debug\Workout01.csprojResolveAssemblyReference.cache
 C:\Users\vinicius.melo\AppData\Local\Temporary Projects\Workout01\obj\Debug\Workout01.exe
 C:\Users\vinicius.melo\AppData\Local\Temporary Projects\Workout01\obj\Debug\Workout01.pdb
+D:\Cursos\Udemy\C# completo 2020 Programação orientada a objetos + projetos\Curso-de-back-end\Enumerações e composição\Workout01\Workout01\bin\Debug\Workout01.exe.config
+D:\Cursos\Udemy\C# completo 2020 Programação orientada a objetos + projetos\Curso-de-back-end\Enumerações e composição\Workout01\Workout01\bin\Debug\Workout01.exe
+D:\Cursos\Udemy\C# completo 2020 Programação orientada a objetos + projetos\Curso-de-back-end\Enumerações e composição\Workout01\Workout01\bin\Debug\Workout01.pdb
+D:\Cursos\Udemy\C# completo 2020 Programação orientada a objetos + projetos\Curso-de-back-end\Enumerações e composição\Workout01\Workout01\obj\Debug\Workout01.csprojAssemblyReference.cache
+D:\Cursos\Udemy\C# completo 2020 Programação orientada a objetos + projetos\Curso-de-back-end\Enumerações e composição\Workout01\Workout01\obj\Debug\Workout01.csproj.CoreCompileInputs.cache
+D:\Cursos\Udemy\C# completo 2020 Programação orientada a objetos + projetos\Curso-de-back-end\Enumerações e composição\Workout01\Workout01\obj\Debug\Workout01.exe
+D:\Cursos\Udemy\C# completo 2020 Programação orientada a objetos + projetos\Curso-de-back-end\Enumerações e composição\Workout01\Workout01\obj\Debug\Workout01.pdb
