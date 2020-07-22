@@ -1,0 +1,12 @@
+D:\Cursos\Udemy\C# completo 2020 Programação orientada a objetos + projetos\Curso-de-back-end\Tópicos especiais C#\DateTimeOperations\DateTimeOperations\bin\Debug\netcoreapp3.1\DateTimeOperations.exe
+D:\Cursos\Udemy\C# completo 2020 Programação orientada a objetos + projetos\Curso-de-back-end\Tópicos especiais C#\DateTimeOperations\DateTimeOperations\bin\Debug\netcoreapp3.1\DateTimeOperations.deps.json
+D:\Cursos\Udemy\C# completo 2020 Programação orientada a objetos + projetos\Curso-de-back-end\Tópicos especiais C#\DateTimeOperations\DateTimeOperations\bin\Debug\netcoreapp3.1\DateTimeOperations.runtimeconfig.json
+D:\Cursos\Udemy\C# completo 2020 Programação orientada a objetos + projetos\Curso-de-back-end\Tópicos especiais C#\DateTimeOperations\DateTimeOperations\bin\Debug\netcoreapp3.1\DateTimeOperations.runtimeconfig.dev.json
+D:\Cursos\Udemy\C# completo 2020 Programação orientada a objetos + projetos\Curso-de-back-end\Tópicos especiais C#\DateTimeOperations\DateTimeOperations\bin\Debug\netcoreapp3.1\DateTimeOperations.dll
+D:\Cursos\Udemy\C# completo 2020 Programação orientada a objetos + projetos\Curso-de-back-end\Tópicos especiais C#\DateTimeOperations\DateTimeOperations\bin\Debug\netcoreapp3.1\DateTimeOperations.pdb
+D:\Cursos\Udemy\C# completo 2020 Programação orientada a objetos + projetos\Curso-de-back-end\Tópicos especiais C#\DateTimeOperations\DateTimeOperations\obj\Debug\netcoreapp3.1\DateTimeOperations.AssemblyInfoInputs.cache
+D:\Cursos\Udemy\C# completo 2020 Programação orientada a objetos + projetos\Curso-de-back-end\Tópicos especiais C#\DateTimeOperations\DateTimeOperations\obj\Debug\netcoreapp3.1\DateTimeOperations.AssemblyInfo.cs
+D:\Cursos\Udemy\C# completo 2020 Programação orientada a objetos + projetos\Curso-de-back-end\Tópicos especiais C#\DateTimeOperations\DateTimeOperations\obj\Debug\netcoreapp3.1\DateTimeOperations.csproj.CoreCompileInputs.cache
+D:\Cursos\Udemy\C# completo 2020 Programação orientada a objetos + projetos\Curso-de-back-end\Tópicos especiais C#\DateTimeOperations\DateTimeOperations\obj\Debug\netcoreapp3.1\DateTimeOperations.dll
+D:\Cursos\Udemy\C# completo 2020 Programação orientada a objetos + projetos\Curso-de-back-end\Tópicos especiais C#\DateTimeOperations\DateTimeOperations\obj\Debug\netcoreapp3.1\DateTimeOperations.pdb
+D:\Cursos\Udemy\C# completo 2020 Programação orientada a objetos + projetos\Curso-de-back-end\Tópicos especiais C#\DateTimeOperations\DateTimeOperations\obj\Debug\netcoreapp3.1\DateTimeOperations.genruntimeconfig.cache

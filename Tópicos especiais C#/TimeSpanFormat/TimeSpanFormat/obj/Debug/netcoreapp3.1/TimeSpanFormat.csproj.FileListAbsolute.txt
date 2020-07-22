@@ -1,0 +1,12 @@
+D:\Cursos\Udemy\C# completo 2020 Programação orientada a objetos + projetos\Curso-de-back-end\Tópicos especiais C#\TimeSpanFormat\TimeSpanFormat\bin\Debug\netcoreapp3.1\TimeSpanFormat.exe
+D:\Cursos\Udemy\C# completo 2020 Programação orientada a objetos + projetos\Curso-de-back-end\Tópicos especiais C#\TimeSpanFormat\TimeSpanFormat\bin\Debug\netcoreapp3.1\TimeSpanFormat.deps.json
+D:\Cursos\Udemy\C# completo 2020 Programação orientada a objetos + projetos\Curso-de-back-end\Tópicos especiais C#\TimeSpanFormat\TimeSpanFormat\bin\Debug\netcoreapp3.1\TimeSpanFormat.runtimeconfig.json
+D:\Cursos\Udemy\C# completo 2020 Programação orientada a objetos + projetos\Curso-de-back-end\Tópicos especiais C#\TimeSpanFormat\TimeSpanFormat\bin\Debug\netcoreapp3.1\TimeSpanFormat.runtimeconfig.dev.json
+D:\Cursos\Udemy\C# completo 2020 Programação orientada a objetos + projetos\Curso-de-back-end\Tópicos especiais C#\TimeSpanFormat\TimeSpanFormat\bin\Debug\netcoreapp3.1\TimeSpanFormat.dll
+D:\Cursos\Udemy\C# completo 2020 Programação orientada a objetos + projetos\Curso-de-back-end\Tópicos especiais C#\TimeSpanFormat\TimeSpanFormat\bin\Debug\netcoreapp3.1\TimeSpanFormat.pdb
+D:\Cursos\Udemy\C# completo 2020 Programação orientada a objetos + projetos\Curso-de-back-end\Tópicos especiais C#\TimeSpanFormat\TimeSpanFormat\obj\Debug\netcoreapp3.1\TimeSpanFormat.AssemblyInfoInputs.cache
+D:\Cursos\Udemy\C# completo 2020 Programação orientada a objetos + projetos\Curso-de-back-end\Tópicos especiais C#\TimeSpanFormat\TimeSpanFormat\obj\Debug\netcoreapp3.1\TimeSpanFormat.AssemblyInfo.cs
+D:\Cursos\Udemy\C# completo 2020 Programação orientada a objetos + projetos\Curso-de-back-end\Tópicos especiais C#\TimeSpanFormat\TimeSpanFormat\obj\Debug\netcoreapp3.1\TimeSpanFormat.csproj.CoreCompileInputs.cache
+D:\Cursos\Udemy\C# completo 2020 Programação orientada a objetos + projetos\Curso-de-back-end\Tópicos especiais C#\TimeSpanFormat\TimeSpanFormat\obj\Debug\netcoreapp3.1\TimeSpanFormat.dll
+D:\Cursos\Udemy\C# completo 2020 Programação orientada a objetos + projetos\Curso-de-back-end\Tópicos especiais C#\TimeSpanFormat\TimeSpanFormat\obj\Debug\netcoreapp3.1\TimeSpanFormat.pdb
+D:\Cursos\Udemy\C# completo 2020 Programação orientada a objetos + projetos\Curso-de-back-end\Tópicos especiais C#\TimeSpanFormat\TimeSpanFormat\obj\Debug\netcoreapp3.1\TimeSpanFormat.genruntimeconfig.cache

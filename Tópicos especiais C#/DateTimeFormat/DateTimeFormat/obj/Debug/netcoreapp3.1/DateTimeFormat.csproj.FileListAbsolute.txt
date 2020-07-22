@@ -1,0 +1,13 @@
+D:\Cursos\Udemy\C# completo 2020 Programação orientada a objetos + projetos\Curso-de-back-end\Tópicos especiais C#\DateTimeFormat\DateTimeFormat\bin\Debug\netcoreapp3.1\DateTimeFormat.exe
+D:\Cursos\Udemy\C# completo 2020 Programação orientada a objetos + projetos\Curso-de-back-end\Tópicos especiais C#\DateTimeFormat\DateTimeFormat\bin\Debug\netcoreapp3.1\DateTimeFormat.deps.json
+D:\Cursos\Udemy\C# completo 2020 Programação orientada a objetos + projetos\Curso-de-back-end\Tópicos especiais C#\DateTimeFormat\DateTimeFormat\bin\Debug\netcoreapp3.1\DateTimeFormat.runtimeconfig.json
+D:\Cursos\Udemy\C# completo 2020 Programação orientada a objetos + projetos\Curso-de-back-end\Tópicos especiais C#\DateTimeFormat\DateTimeFormat\bin\Debug\netcoreapp3.1\DateTimeFormat.runtimeconfig.dev.json
+D:\Cursos\Udemy\C# completo 2020 Programação orientada a objetos + projetos\Curso-de-back-end\Tópicos especiais C#\DateTimeFormat\DateTimeFormat\bin\Debug\netcoreapp3.1\DateTimeFormat.dll
+D:\Cursos\Udemy\C# completo 2020 Programação orientada a objetos + projetos\Curso-de-back-end\Tópicos especiais C#\DateTimeFormat\DateTimeFormat\bin\Debug\netcoreapp3.1\DateTimeFormat.pdb
+D:\Cursos\Udemy\C# completo 2020 Programação orientada a objetos + projetos\Curso-de-back-end\Tópicos especiais C#\DateTimeFormat\DateTimeFormat\obj\Debug\netcoreapp3.1\DateTimeFormat.csprojAssemblyReference.cache
+D:\Cursos\Udemy\C# completo 2020 Programação orientada a objetos + projetos\Curso-de-back-end\Tópicos especiais C#\DateTimeFormat\DateTimeFormat\obj\Debug\netcoreapp3.1\DateTimeFormat.AssemblyInfoInputs.cache
+D:\Cursos\Udemy\C# completo 2020 Programação orientada a objetos + projetos\Curso-de-back-end\Tópicos especiais C#\DateTimeFormat\DateTimeFormat\obj\Debug\netcoreapp3.1\DateTimeFormat.AssemblyInfo.cs
+D:\Cursos\Udemy\C# completo 2020 Programação orientada a objetos + projetos\Curso-de-back-end\Tópicos especiais C#\DateTimeFormat\DateTimeFormat\obj\Debug\netcoreapp3.1\DateTimeFormat.csproj.CoreCompileInputs.cache
+D:\Cursos\Udemy\C# completo 2020 Programação orientada a objetos + projetos\Curso-de-back-end\Tópicos especiais C#\DateTimeFormat\DateTimeFormat\obj\Debug\netcoreapp3.1\DateTimeFormat.dll
+D:\Cursos\Udemy\C# completo 2020 Programação orientada a objetos + projetos\Curso-de-back-end\Tópicos especiais C#\DateTimeFormat\DateTimeFormat\obj\Debug\netcoreapp3.1\DateTimeFormat.pdb
+D:\Cursos\Udemy\C# completo 2020 Programação orientada a objetos + projetos\Curso-de-back-end\Tópicos especiais C#\DateTimeFormat\DateTimeFormat\obj\Debug\netcoreapp3.1\DateTimeFormat.genruntimeconfig.cache

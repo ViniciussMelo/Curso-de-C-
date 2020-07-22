@@ -1,0 +1,12 @@
+D:\Cursos\Udemy\C# completo 2020 Programação orientada a objetos + projetos\Curso-de-back-end\Tópicos especiais C#\StringFunctions\StringFunctions\bin\Debug\netcoreapp3.1\StringFunctions.exe
+D:\Cursos\Udemy\C# completo 2020 Programação orientada a objetos + projetos\Curso-de-back-end\Tópicos especiais C#\StringFunctions\StringFunctions\bin\Debug\netcoreapp3.1\StringFunctions.deps.json
+D:\Cursos\Udemy\C# completo 2020 Programação orientada a objetos + projetos\Curso-de-back-end\Tópicos especiais C#\StringFunctions\StringFunctions\bin\Debug\netcoreapp3.1\StringFunctions.runtimeconfig.json
+D:\Cursos\Udemy\C# completo 2020 Programação orientada a objetos + projetos\Curso-de-back-end\Tópicos especiais C#\StringFunctions\StringFunctions\bin\Debug\netcoreapp3.1\StringFunctions.runtimeconfig.dev.json
+D:\Cursos\Udemy\C# completo 2020 Programação orientada a objetos + projetos\Curso-de-back-end\Tópicos especiais C#\StringFunctions\StringFunctions\bin\Debug\netcoreapp3.1\StringFunctions.dll
+D:\Cursos\Udemy\C# completo 2020 Programação orientada a objetos + projetos\Curso-de-back-end\Tópicos especiais C#\StringFunctions\StringFunctions\bin\Debug\netcoreapp3.1\StringFunctions.pdb
+D:\Cursos\Udemy\C# completo 2020 Programação orientada a objetos + projetos\Curso-de-back-end\Tópicos especiais C#\StringFunctions\StringFunctions\obj\Debug\netcoreapp3.1\StringFunctions.AssemblyInfoInputs.cache
+D:\Cursos\Udemy\C# completo 2020 Programação orientada a objetos + projetos\Curso-de-back-end\Tópicos especiais C#\StringFunctions\StringFunctions\obj\Debug\netcoreapp3.1\StringFunctions.AssemblyInfo.cs
+D:\Cursos\Udemy\C# completo 2020 Programação orientada a objetos + projetos\Curso-de-back-end\Tópicos especiais C#\StringFunctions\StringFunctions\obj\Debug\netcoreapp3.1\StringFunctions.csproj.CoreCompileInputs.cache
+D:\Cursos\Udemy\C# completo 2020 Programação orientada a objetos + projetos\Curso-de-back-end\Tópicos especiais C#\StringFunctions\StringFunctions\obj\Debug\netcoreapp3.1\StringFunctions.dll
+D:\Cursos\Udemy\C# completo 2020 Programação orientada a objetos + projetos\Curso-de-back-end\Tópicos especiais C#\StringFunctions\StringFunctions\obj\Debug\netcoreapp3.1\StringFunctions.pdb
+D:\Cursos\Udemy\C# completo 2020 Programação orientada a objetos + projetos\Curso-de-back-end\Tópicos especiais C#\StringFunctions\StringFunctions\obj\Debug\netcoreapp3.1\StringFunctions.genruntimeconfig.cache
