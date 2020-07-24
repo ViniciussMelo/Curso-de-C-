@@ -1,0 +1,6 @@
+C:\Users\vinicius.melo\Desktop\Arquivos\Cursos\Udemy\C# completo\Curso-de-back-end\Herança e polimorfismo\Workout01\Workout01\bin\Debug\Workout01.exe.config
+C:\Users\vinicius.melo\Desktop\Arquivos\Cursos\Udemy\C# completo\Curso-de-back-end\Herança e polimorfismo\Workout01\Workout01\bin\Debug\Workout01.exe
+C:\Users\vinicius.melo\Desktop\Arquivos\Cursos\Udemy\C# completo\Curso-de-back-end\Herança e polimorfismo\Workout01\Workout01\bin\Debug\Workout01.pdb
+C:\Users\vinicius.melo\Desktop\Arquivos\Cursos\Udemy\C# completo\Curso-de-back-end\Herança e polimorfismo\Workout01\Workout01\obj\Debug\Workout01.csprojResolveAssemblyReference.cache
+C:\Users\vinicius.melo\Desktop\Arquivos\Cursos\Udemy\C# completo\Curso-de-back-end\Herança e polimorfismo\Workout01\Workout01\obj\Debug\Workout01.exe
+C:\Users\vinicius.melo\Desktop\Arquivos\Cursos\Udemy\C# completo\Curso-de-back-end\Herança e polimorfismo\Workout01\Workout01\obj\Debug\Workout01.pdb

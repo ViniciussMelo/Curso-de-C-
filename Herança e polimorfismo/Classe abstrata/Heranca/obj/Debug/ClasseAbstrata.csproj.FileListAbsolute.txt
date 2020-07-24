@@ -1,0 +1,6 @@
+C:\Users\vinicius.melo\Desktop\Arquivos\Cursos\Udemy\C# completo\Curso-de-back-end\Herança e polimorfismo\Classe abstrata\Heranca\bin\Debug\Heranca.exe.config
+C:\Users\vinicius.melo\Desktop\Arquivos\Cursos\Udemy\C# completo\Curso-de-back-end\Herança e polimorfismo\Classe abstrata\Heranca\bin\Debug\Heranca.exe
+C:\Users\vinicius.melo\Desktop\Arquivos\Cursos\Udemy\C# completo\Curso-de-back-end\Herança e polimorfismo\Classe abstrata\Heranca\bin\Debug\Heranca.pdb
+C:\Users\vinicius.melo\Desktop\Arquivos\Cursos\Udemy\C# completo\Curso-de-back-end\Herança e polimorfismo\Classe abstrata\Heranca\obj\Debug\ClasseAbstrata.csprojResolveAssemblyReference.cache
+C:\Users\vinicius.melo\Desktop\Arquivos\Cursos\Udemy\C# completo\Curso-de-back-end\Herança e polimorfismo\Classe abstrata\Heranca\obj\Debug\Heranca.exe
+C:\Users\vinicius.melo\Desktop\Arquivos\Cursos\Udemy\C# completo\Curso-de-back-end\Herança e polimorfismo\Classe abstrata\Heranca\obj\Debug\Heranca.pdb

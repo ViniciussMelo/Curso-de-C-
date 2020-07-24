@@ -1,0 +1,3 @@
+C:\Users\vinicius.melo\AppData\Local\Temporary Projects\Heranca\bin\Debug\Heranca.exe.config
+C:\Users\vinicius.melo\Desktop\Arquivos\Cursos\Udemy\C# completo\Curso-de-back-end\Herança e polimorfismo\Heranca\Heranca\bin\Debug\Heranca.exe.config
+C:\Users\vinicius.melo\Desktop\Arquivos\Cursos\Udemy\C# completo\Curso-de-back-end\Herança e polimorfismo\Classe abstrata\Heranca\bin\Debug\Heranca.exe.config

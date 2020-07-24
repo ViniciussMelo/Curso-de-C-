@@ -1,0 +1,6 @@
+C:\Users\vinicius.melo\AppData\Local\Temporary Projects\Workout02\bin\Debug\Workout02.exe.config
+C:\Users\vinicius.melo\AppData\Local\Temporary Projects\Workout02\bin\Debug\Workout02.exe
+C:\Users\vinicius.melo\AppData\Local\Temporary Projects\Workout02\bin\Debug\Workout02.pdb
+C:\Users\vinicius.melo\AppData\Local\Temporary Projects\Workout02\obj\Debug\Workout02.csprojResolveAssemblyReference.cache
+C:\Users\vinicius.melo\AppData\Local\Temporary Projects\Workout02\obj\Debug\Workout02.exe
+C:\Users\vinicius.melo\AppData\Local\Temporary Projects\Workout02\obj\Debug\Workout02.pdb
