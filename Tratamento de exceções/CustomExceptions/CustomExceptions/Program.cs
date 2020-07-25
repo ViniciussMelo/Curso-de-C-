@@ -41,7 +41,7 @@ namespace CustomExceptions
             {
                 Console.WriteLine("Format error: " + e.Message);
             }
-            catch(Exception e)
+            catch (Exception e)
             {
                 Console.WriteLine("Unexpected error: " + e.Message);
             }
